@@ -1,4 +1,4 @@
-import {Button} from "./components/Button";
+import {Button} from "./components/button";
 import {Icon} from "./components/icon";
 import {Alert} from "./components/alert";
 
